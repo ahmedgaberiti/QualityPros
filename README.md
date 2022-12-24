@@ -1,3 +1,3 @@
 # QualityPros
-This is Automation framework for demoblaze Website using selenium 4 and TestNG 
-desgined using page object model and fluent design .
+This is Automation framework for demoblaze Website using selenium 4 and TestNG and Java 17
+desgined using page object model and fluent design and using allure reports for reporting 
